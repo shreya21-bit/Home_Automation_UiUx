@@ -1,0 +1,472 @@
+/* iPhone 13 & 14 - 3 */
+
+position: relative;
+width: 489px;
+height: 960px;
+
+background: #8CD2C1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 36px;
+
+
+/* Vector */
+
+position: absolute;
+visibility: hidden;
+left: 79.49%;
+right: 14.36%;
+top: 0.83%;
+bottom: 97.63%;
+
+background: #000000;
+
+
+/* signal */
+
+position: absolute;
+visibility: hidden;
+left: 72.82%;
+right: 22.05%;
+top: 0.47%;
+bottom: 97.39%;
+
+
+
+/* Vector */
+
+position: absolute;
+visibility: hidden;
+left: 87.18%;
+right: 7.69%;
+top: 0.95%;
+bottom: 97.63%;
+
+background: #000000;
+
+
+/* 10:15 */
+
+position: absolute;
+visibility: hidden;
+left: 8.97%;
+right: 64.87%;
+top: 0.47%;
+bottom: 96.68%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: -16.67%;
+right: 65.38%;
+top: -8.53%;
+bottom: 84.83%;
+
+background: rgba(27, 169, 118, 0.35);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+left: -29.23%;
+right: 77.95%;
+top: 1.54%;
+bottom: 74.76%;
+
+background: rgba(27, 169, 118, 0.35);
+
+
+/* Ellipse 7 */
+
+position: absolute;
+left: -16.67%;
+right: 65.38%;
+top: 72.39%;
+bottom: 3.91%;
+
+background: rgba(27, 169, 118, 0.35);
+
+
+/* Ellipse 6 */
+
+position: absolute;
+left: 8.97%;
+right: 39.74%;
+top: 83.18%;
+bottom: -6.87%;
+
+background: rgba(27, 169, 118, 0.35);
+
+
+/* Ellipse 5 */
+
+position: absolute;
+left: -22.82%;
+right: 71.54%;
+top: 86.73%;
+bottom: -10.43%;
+
+background: rgba(27, 169, 118, 0.35);
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: -25.64%;
+right: 74.36%;
+top: 19.43%;
+bottom: 56.87%;
+
+background: rgba(27, 169, 118, 0.35);
+
+
+/* Ellipse 3 */
+
+position: absolute;
+left: 22.05%;
+right: 26.67%;
+top: -10.31%;
+bottom: 86.61%;
+
+background: rgba(27, 169, 118, 0.35);
+
+
+/* Group 7 */
+
+position: absolute;
+visibility: hidden;
+left: 10.02%;
+right: 68.71%;
+top: 17.29%;
+bottom: 71.88%;
+
+
+
+/* Ellipse 8 */
+
+position: absolute;
+left: 10.02%;
+right: 68.71%;
+top: 17.29%;
+bottom: 71.88%;
+
+background: rgba(0, 0, 0, 0.75);
+backdrop-filter: blur(8.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24px;
+
+
+/* Reading */
+
+position: absolute;
+left: 12.88%;
+right: 71.57%;
+top: 21.46%;
+bottom: 75.73%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+text-align: center;
+
+color: rgba(250, 250, 250, 0.58);
+
+
+
+/* Group 6 */
+
+position: absolute;
+visibility: hidden;
+left: 39.26%;
+right: 33.74%;
+top: 23.33%;
+bottom: 62.92%;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+left: 39.26%;
+right: 33.74%;
+top: 23.33%;
+bottom: 62.92%;
+
+background: #A3FFD8;
+backdrop-filter: blur(11px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Guest Mode */
+
+position: absolute;
+left: 46.83%;
+right: 41.31%;
+top: 28.12%;
+bottom: 66.25%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+text-align: center;
+
+color: #3C3C40;
+
+
+
+/* Group 5 */
+
+position: absolute;
+visibility: hidden;
+left: 49.9%;
+right: 16.16%;
+top: 42.4%;
+bottom: 40.31%;
+
+
+
+/* Ellipse 10 */
+
+position: absolute;
+left: 49.9%;
+right: 16.16%;
+top: 42.4%;
+bottom: 40.31%;
+
+background: rgba(0, 0, 0, 0.75);
+backdrop-filter: blur(8.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24px;
+
+
+/* Movie  Time */
+
+position: absolute;
+left: 60.94%;
+right: 26.99%;
+top: 48.23%;
+bottom: 46.15%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+text-align: center;
+
+color: rgba(250, 250, 250, 0.58);
+
+
+
+/* Configure Your Moments */
+
+position: absolute;
+visibility: hidden;
+left: 10.02%;
+right: 34.15%;
+top: 5.83%;
+bottom: 84.79%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 150%;
+/* or 45px */
+
+color: #073C39;
+
+
+
+/* Group 8 */
+
+position: absolute;
+visibility: hidden;
+left: 44.58%;
+right: 29.24%;
+top: 65.73%;
+bottom: 20.94%;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+left: 44.58%;
+right: 29.24%;
+top: 65.73%;
+bottom: 20.94%;
+
+background: rgba(0, 0, 0, 0.75);
+backdrop-filter: blur(8.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24px;
+
+
+/* Date  Night */
+
+position: absolute;
+left: 52.76%;
+right: 37.22%;
+top: 69.58%;
+bottom: 24.79%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+text-align: center;
+
+color: rgba(250, 250, 250, 0.58);
+
+
+
+/* setting */
+
+position: absolute;
+left: 10.02%;
+right: nan%;
+top: 76.25%;
+bottom: nan%;
+
+
+
+/* Group 9 */
+
+position: absolute;
+visibility: hidden;
+left: 10.02%;
+right: 58.49%;
+top: 76.25%;
+bottom: 7.71%;
+
+
+
+/* Ellipse 11 */
+
+position: absolute;
+left: 10.02%;
+right: 58.49%;
+top: 76.25%;
+bottom: 7.71%;
+
+background: rgba(0, 0, 0, 0.75);
+backdrop-filter: blur(8.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24px;
+
+
+/* Party  Hours */
+
+position: absolute;
+left: 20.45%;
+right: 68.71%;
+top: 81.46%;
+bottom: 12.92%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+text-align: center;
+
+color: rgba(250, 250, 250, 0.58);
+
+
+
+/* add button */
+
+position: absolute;
+visibility: hidden;
+left: 5.52%;
+right: 79.35%;
+top: 49.79%;
+bottom: 41.46%;
+
+
+
+/* Ellipse 8 */
+
+position: absolute;
+left: 6.54%;
+right: 80.37%;
+top: 51.88%;
+bottom: 41.46%;
+
+background: rgba(232, 251, 190, 0.63);
+filter: blur(24.5px);
+
+
+/* Ellipse 7 */
+
+position: absolute;
+left: 5.52%;
+right: 79.35%;
+top: 49.79%;
+bottom: 42.5%;
+
+background: #A3FFD8;
+
+
+/* Plus */
+
+position: absolute;
+left: 10.22%;
+right: 84.17%;
+top: 52.19%;
+bottom: 44.96%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.22%;
+right: 84.17%;
+top: 52.19%;
+bottom: 44.96%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.1%;
+right: 85.05%;
+top: 53.61%;
+bottom: 46.39%;
+
+background: #3C3C40;
+border: 4px solid #3C3C40;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.03%;
+right: 86.97%;
+top: 52.63%;
+bottom: 45.41%;
+
+background: #3C3C40;
+border: 4px solid #3C3C40;
