@@ -18,3 +18,6 @@ Following are the operation need to be performed on each appliance:
   
 The solution need to have a clean and appealing UI/UX.
 You should come up with multiple design options for single screen.
+
+![Screenshot (151)](https://github.com/user-attachments/assets/52437ba2-1ff8-4f1e-a687-18716f3a327f)
+
